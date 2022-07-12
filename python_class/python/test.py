@@ -24,4 +24,6 @@ else :
     print('매우좋음')
  
 print(num)
+print(type(num))
+
 
